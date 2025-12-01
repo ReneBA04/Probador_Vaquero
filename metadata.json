@@ -1,0 +1,7 @@
+{
+  "name": "Vaquero AI - Probador Virtual",
+  "description": "Prueba outfits estilo vaquero de marcas reconocidas usando Inteligencia Artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
